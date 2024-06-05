@@ -3,7 +3,7 @@
 
 int main()
 {
-	point2D p1, p2;
+	point2D p1{}, p2{};
 	p1.SetXY(2, 2);
 	p2.SetXY(4, 3);
 
